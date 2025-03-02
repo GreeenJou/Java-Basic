@@ -10,6 +10,8 @@ public class FirstLesson {
     letters.add("A");
     letters.add("B");
     letters.add("C");
+        letters.add("D");
+        letters.add("F");
 
     // Print the list
     System.out.println("Letters in the list: " + letters);
